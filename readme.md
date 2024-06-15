@@ -1,7 +1,7 @@
 # FilMage
-<! version: 1.0
+[version: 1.0
  author: asvera
->
+ ]:#
 
 ## Simple Image Processing REST API
 
