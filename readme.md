@@ -39,7 +39,7 @@ git clone https://github.com/asvera/FilMage.git
 cd FilMage
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-	```
+```
 ### Install the required packages:
 
 ```sh
