@@ -1,6 +1,7 @@
 # FilMage
-# version: 1.0
-# author: asvera
+<! version: 1.0
+ author: asvera
+>
 
 ## Simple Image Processing REST API
 
@@ -33,7 +34,7 @@ FilMage is a REST API built with the Flask micro web framework that allows users
 
 1. **Clone the repository:**
 
-   ```sh
+```sh
 git clone https://github.com/asvera/FilMage.git
 cd FilMage
 python -m venv venv
@@ -48,7 +49,7 @@ pip install -r requirements.txt
 ### Run the Flask app:
 
 ```sh
-    python app.py #or flask run
+python app.py #or flask run
 ```
 
 ### Get available filters and usage information:
@@ -57,7 +58,7 @@ pip install -r requirements.txt
 curl http://127.0.0.1:5000/
 ```
 ```sh
-    curl -X POST -F "Image=@/Path/to/sample.jpeg" http://127.0.0.1:5000/blur/ --output filtered_image.jpeg
+curl -X POST -F "Image=@/Path/to/sample.jpeg" http://127.0.0.1:5000/blur/ --output filtered_image.jpeg
 ```
 ## Endpoints
 
