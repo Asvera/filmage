@@ -1,4 +1,4 @@
-![mascot](/img/1.png)
+![mascot](/img/1a.png)
 
 # FilMage
 [version: 1.0
