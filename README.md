@@ -1,3 +1,5 @@
+![mascot](/img/1.png)
+
 # FilMage
 [version: 1.0
  author: asvera
